@@ -30,7 +30,7 @@
     "file-loader": "^4.2.0",
     "glob": "^7.1.2",
     "imports-loader": "^0.8.0",
-    "jquery": "^3.1.1",
+    "jquery": "^3.7.1",
     "jquery-ujs": "^1.2.2",
     "js-yaml": "^3.9.0",
     "loader-utils": "^1.2.3",
